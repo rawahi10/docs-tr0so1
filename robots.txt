@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rawahi10.github.io/docs-tr0so1/sitemap.xml
